@@ -7,9 +7,10 @@
     
     
     
-   body { 
-         background-color: linear-gradient(90deg, #C7C5F4, #776BCC);                 
- }
+   
  
 
-
+#grad {
+  background-image: linear-gradient(#080808;
+        color: #fff);
+}
