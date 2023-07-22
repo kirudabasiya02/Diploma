@@ -10,5 +10,6 @@
    
  
 #grad {
-  background-image: linear-gradient(red, yellow);
+  background-color: linear-gradient(red, yellow);
 }
+
