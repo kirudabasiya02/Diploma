@@ -4,13 +4,12 @@
     font-family:"poppins", sans-serif;
     box-sizing: border-box;
     }
-    body{
-        background-color: #080808;
-        color: #fff;
-    }
     
     
-   
+    
+   body { 
+         background: linear-gradient(90deg, #C7C5F4, #776BCC);                 
+ }
  
 
 
