@@ -9,7 +9,8 @@
     
    
  
-#grad {
+body{
+
   background-color: linear-gradient(red, yellow);
 }
 
